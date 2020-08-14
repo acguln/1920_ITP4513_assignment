@@ -7,3 +7,8 @@ Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is m
 -This assignment is also for teaching purposes.
 
 -It is not transformative in nature.
+
+
+PHP Part :
+Copyright @ Acguln 2020. Any reproduction or illegal distribution of the content in any form will result in immediate action against the person concerned.
+
