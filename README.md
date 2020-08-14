@@ -10,5 +10,5 @@ Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is m
 
 
 PHP Part :
-Copyright @ Acguln 2020. Any reproduction or illegal distribution of the content in any form will result in immediate action against the person concerned.
+Copyright @ acguln 2020. Any reproduction or illegal distribution of the content in any form will result in immediate action against the person concerned.
 
